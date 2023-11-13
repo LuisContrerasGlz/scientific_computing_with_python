@@ -12,8 +12,6 @@ To successfully obtain the certification, you will be required to complete a ser
 
 * Time Calculator:
 
-* Budget App
-
 * Polygon Area Calculator
 
 * Probability Calculator
