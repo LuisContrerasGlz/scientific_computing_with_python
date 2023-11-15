@@ -21,3 +21,5 @@ To successfully obtain the certification, you will be required to complete a ser
 If you don't have Python installed on your machine, you can download it from the official [Python website](https://www.python.org/downloads/). Follow the installation instructions for your operating system.
 
 ![Cert](./img/cert.png)
+
+For more certifications and complete profile please check my LinkedIn page: https://www.linkedin.com/in/luis-contreras-gonzalez/
